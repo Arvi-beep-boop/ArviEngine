@@ -4,5 +4,4 @@ class GameObject
 {
 public:
 	Transform transform;
-	
 };
